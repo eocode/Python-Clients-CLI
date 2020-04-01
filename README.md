@@ -64,11 +64,33 @@ pv clients --help
 ```
 
 Create a client
-```python
+```shell
 pv clients create
 ```
 
 List a clients
-```python
+```shell
 pv clients list
 ```
+
+Update a client 
+
+```shell
+pv clients update [uid]
+```
+
+Delete a client
+```shell
+pv clients update [uid]
+```
+
+### Preview
+<div align="center">
+  <img src="images/Screenshot_1.png">
+  <small><p>Comand line Interface</p></small>
+</div>
+
+<div align="center">
+  <img src="images/Screenshot_3.png">
+  <small><p>List Data</p></small>
+</div>

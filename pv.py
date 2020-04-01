@@ -6,7 +6,7 @@ CLIENTS_TABLE = 'clients.csv'
 @click.group()
 @click.pass_context
 def cli(ctx):
-    """An application to manage clients, inventory, sales and produce reports"""
+    """An application to manage clients"""
     ctx.obj = {}
     ctx.obj['clients_table'] = CLIENTS_TABLE
 
