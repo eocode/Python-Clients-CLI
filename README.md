@@ -4,8 +4,8 @@ SPARTAN SALES CRUD
 
 ## Description
 This code contains a simple CRUD program
-* main.py CRUD based in Strings
-* main2.py CRUD based in lists
+* main.py CRUD based on Strings
+* main2.py CRUD based on Lists
 
 ## How to Run
 
