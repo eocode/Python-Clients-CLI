@@ -1,6 +1,9 @@
-# CRUD Python
+# Clients CLI
 
-SPARTAN SALES CRUD
+CRUD with Python
+
+* Python 3.7
+* Click Framework
 
 ## Description
 This code contains a simple CRUD program
